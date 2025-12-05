@@ -1,0 +1,15 @@
+{
+    "name": "jakiriggs/4_kata68_69",
+    "autoload": {
+        "psr-4": {
+            "Jakiriggs\\4Kata6869\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jaki Riggs",
+            "email": "jarquealex0302@gmail.com"
+        }
+    ],
+    "require": {}
+}
